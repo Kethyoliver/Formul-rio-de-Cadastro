@@ -1,0 +1,1 @@
+Projeto de formulário responsivo, moderno e amigável, inspirado por Larissa Kich. Desenvolvido em HTML e CSS com o intuito de aprimorar habilidades e aprender mais sobre programação web. Layout intuivo para uma experiência consistente em diferentes dispositivos.
