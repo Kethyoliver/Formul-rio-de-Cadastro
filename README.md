@@ -41,7 +41,5 @@ Antes de começar, você precisará ter o seguinte instalado no seu computador:
         open index.html
         ```
 
-## 🖥️ Estrutura do Projeto
 
-A estrutura do projeto é a seguinte:
 
