@@ -1,4 +1,4 @@
-
+yellen
 # Formulário de Cadastro
 
 Este é um projeto simples de um formulário de cadastro desenvolvido em HTML e CSS. 
@@ -10,7 +10,7 @@ Créditos para : Larissa Kich.
 
 ## 📸 Demonstração
 
-![Demonstração do Formulário](assets/img/undraw_working_late_re_0c3y.svg)
+![Demonstração do Formulário](assets/img/formulario.png)
 
 ## 🚀 Como Usar
 
@@ -26,7 +26,7 @@ Antes de começar, você precisará ter o seguinte instalado no seu computador:
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/kethyoliver/Formul-rio-de-Cadastro.git
     ```
 
 2. Navegue até o diretório do projeto:
